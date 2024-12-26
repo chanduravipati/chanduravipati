@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chanduravipati
 - 👀 I’m interested in programning
-- 🌱 I’m currently learning JAVA..
 - 💞️ I’m looking to collaborate on PROGRAM LEARNERS...
-- 📫 contact our email
+- 📫 contact our email chanduravipati685@gmail.com
 
 <!---
 chanduravipati/chanduravipati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
